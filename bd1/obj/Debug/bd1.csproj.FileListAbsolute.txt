@@ -1,0 +1,14 @@
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.csprojResolveAssemblyReference.cache
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.Properties.Resources.resources
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.csproj.GenerateResource.Cache
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.csproj.CoreCompileInputs.cache
+D:\Users\k011E\source\repos\bd1\bd1\bin\Debug\Database1.mdf
+D:\Users\k011E\source\repos\bd1\bd1\bin\Debug\Database1_log.ldf
+D:\Users\k011E\source\repos\bd1\bd1\bin\Debug\bd1.exe.config
+D:\Users\k011E\source\repos\bd1\bd1\bin\Debug\bd1.exe
+D:\Users\k011E\source\repos\bd1\bd1\bin\Debug\bd1.pdb
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.exe
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.pdb
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.Form1.resources
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.trainerAdd.resources
+D:\Users\k011E\source\repos\bd1\bd1\obj\Debug\bd1.ClientAdd.resources
